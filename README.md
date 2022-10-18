@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir.</h1>
 <h3 align="center">I was bored and i made this site.</h3>
 
-- 📜 This website actually a project that arose as a result of a challenge with myself. If you wanna edit this site for yourself, don't stop just fork this.
+- 📜 This website actually a project that arose as a result of a challenge with myself. If you wanna edit this site for yourself, don't stop just clone this.
 
 - 👨‍💻 All of my projects are available at [poaqua.xyz](poaqua.xyz)
 
