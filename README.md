@@ -3,7 +3,7 @@
 
 - 📜 This website actually a project that arose as a result of a challenge with myself. If you wanna edit this site for yourself, don't stop just clone this.
 
-- 👨‍💻 All of my projects are available at [poaqua.xyz](poaqua.xyz)
+- 👨‍💻 All of my projects are available at [podev.org](podev.org)
 
 - 📫 How to reach me **emirylmz344@gmail.com**
 
